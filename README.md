@@ -1,6 +1,4 @@
-# flutter_register_app
-
-A new Flutter application.
+# A simple Login app made with Shared Preferences in Flutter
 
 ## Getting Started
 
